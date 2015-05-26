@@ -117,6 +117,32 @@
                 <p class="text-center" style="margin-top:20px;"><a href="http://www.midconcept.com:3000/">myChat (MEAN Stack)</a></p>
             </div>
 
+
+
+             <div class="col-sm-4 item">
+                <a  class="align-center" href="#home">
+                    <img class="img-circle img-responsive img-center" src="" alt="">
+                    <div>
+                        <p class="text-center">Coming...</p> 
+
+                        
+                    </div>
+                </a>
+                <p class="text-center" style="margin-top:20px;"><a href="#">JS Circle Coming..</a></p>
+            </div>
+
+
+             <div class="col-sm-4 item">
+                <a  class="align-center" href="#home">
+                    <img class="img-circle img-responsive img-center" src="" alt="">
+                    <div>
+                        <p class="text-center">Coming...</p> 
+                    </div>
+                </a>
+                <p class="text-center" style="margin-top:20px;"><a href="">Pacmac Coming..</a></p>
+            </div>
+
+
         </div>
      
         <!-- /.row -->
