@@ -121,14 +121,14 @@
 
              <div class="col-sm-4 item">
                 <a  class="align-center" href="#home">
-                    <img class="img-circle img-responsive img-center" src="" alt="">
+                    <img class="img-circle img-responsive img-center" src="../assets/images/js_circle.jpg" alt="">
                     <div>
-                        <p class="text-center">Coming...</p> 
+                        <p class="text-center">JavaScript Animation</p> 
 
                         
                     </div>
                 </a>
-                <p class="text-center" style="margin-top:20px;"><a href="#">JS Circle Coming..</a></p>
+                <p class="text-center" style="margin-top:20px;"><a href="http://www.midconcept.com:84">JS Circle</a></p>
             </div>
 
 
